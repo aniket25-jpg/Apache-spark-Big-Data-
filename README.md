@@ -32,10 +32,15 @@ The project demonstrates how big data analytics can be used to drive data-driven
 🧰 Tech Stack
 
 -> Python
+
 -> PySpark (Apache Spark)
+
 -> Pandas, NumPy
+
 -> Matplotlib / Seaborn
+
 -> Scikit-learn
+
 
 📈 Business Impact
 
